@@ -1,0 +1,20 @@
+diff a/6장/객체 조작/jq_select3_09.html b/6장/객체 조작/jq_select3_09.html	(rejected hunks)
+@@ -1,17 +0,0 @@
+-<!DOCTYPE html>
+-<html lang="en">
+-<head>
+-    <meta charset="UTF-8">
+-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+-    <title>객체 편집 메서드</title>
+-    <script src="C:/JSProject/js/jquery.js"></script>
+-
+-    <script>
+-
+-    </script>
+-</head>
+-<body>
+-    
+-</body>
+-</html>
+\ No newline at end of file
